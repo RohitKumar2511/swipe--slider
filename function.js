@@ -10,7 +10,7 @@ jQuery(document).ready(function($)
             autoplay: true,
             dots: true,
             autoplayTimeout: 1000,
-            smartSpeed: 11,
+            smartSpeed: 1,
             responsive: {
                 0: {
                     items: 1
